@@ -1,0 +1,2 @@
+Prefix plugins/StandardScaler/example/
+Plugin StandardScaler inputfile input.csv outputfile output.csv
